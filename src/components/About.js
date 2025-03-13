@@ -11,10 +11,9 @@ function About() {
           <div className="about-text">
             <h2>About</h2>
             <p>
-              I am a seasoned logistics consultant with over 20 years of experience in the industry. My expertise lies in optimizing supply chain operations, reducing costs, and improving efficiency for businesses of all sizes.
-            </p>
+              24+ years of experience in the Automotive Industry as a Logistics Manager. Extensive experience working with international suppliers. $20M+ of managed inventory. Successfully launched 20+ projects for different OEMs as a tier 1/2 supplier. SAP Super user on modules MM, SD, PP, WM. Certified internal auditor ISO TS16949/ISO 14000. 
             <p>
-              I have a proven track record of helping companies streamline their logistics processes and achieve significant cost savings. I am passionate about helping businesses succeed and would love to help you achieve your logistics goals.
+             Looking to secure a challenging logistics or supply chain management position with a dynamic and exciting organization where my business knowledge, experience and skills will contribute towards the growth and success of the organization.              </p>
             </p>
             <p>
               Contact me today to learn more about how I can help your business succeed.
